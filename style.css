@@ -35,15 +35,15 @@
     form input, form textarea { padding: 10px; border: 1px solid #ccc; border-radius: 5px; }
     form input:focus, form textarea:focus { border-color: #0077b6; outline: none; }
     form button { background: #0077b6; color: #fff; padding: 10px; border: none; border-radius: 5px; cursor: pointer; transition: 0.3s; }
-    form button:hover { background: #005f87; transform: scale(1.05); }
+    form button:hover { background: #146588; transform: scale(1.05); }
 
     /* Socials */
     .socials { text-align: center; margin-top: 15px; }
     .socials a { margin: 0 10px; color: #0077b6; text-decoration: none; transition: 0.3s; }
-    .socials a:hover { color: #ffb703; }
+    .socials a:hover { color: #ffb803c5; }
 
     /* Footer */
-    footer { text-align: center; padding: 1rem; background: #0077b6; color: #fff; margin-top: 2rem; animation: fadeIn 2s ease; }
+    footer { text-align: center; padding: 1rem; background: #1375aa; color: #fff; margin-top: 2rem; animation: fadeIn 2s ease; }
 
     /* Animations */
     @keyframes fadeIn {
